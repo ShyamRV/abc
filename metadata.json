@@ -1,0 +1,5 @@
+{
+  "name": "ASI:ONE Agent Platform",
+  "description": "An AI-native community event platform orchestrated by autonomous agents. Features agent-based event planning, venue selection, and attendee matching powered by Gemini.",
+  "requestFramePermissions": []
+}
